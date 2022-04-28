@@ -7,7 +7,7 @@ body, html {
 
 /* ---------------------------------------------- Hero Image */
 .hero-img {
-    background-image: url(/assets/images/church-hero.jpg);
+    background-image: url(assets/images/church-hero.jpg);
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
