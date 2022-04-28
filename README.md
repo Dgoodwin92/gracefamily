@@ -2,6 +2,8 @@
 
 ![Grace Family Church](./assets/images/gfc-responsive.png)
 
+The Live site can be found [Here](https://dgoodwin92.github.io/gracefamily/).
+
 Created as a small project to fulfill a post interview challenge. The interviewer wanted a HTML page with an image, table and link to their current staff page within their website.
 
 This project only uses the languages of HTML and CSS, within this project [Bootstrap](https://getbootstrap.com/) is used to create the table with responsive behaviour. I have also used Bootstraps containers to keep the project clean and responsive on multiple sized screens. 
